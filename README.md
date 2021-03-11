@@ -15,7 +15,7 @@ In this project, we shall demonstrate how to construct high-resolution 2D images
 
 The input point cloud data representatiuon of part of a tire is illustrated in the Figure 1.
 
-![](figures/input_3D_point_cloud_tire.jpg){ width=50% }
+<img src="figures/input_3D_point_cloud_tire.jpg" width="200">
 
     
 # 4. Approach
