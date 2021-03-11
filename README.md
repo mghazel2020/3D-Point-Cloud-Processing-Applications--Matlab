@@ -50,7 +50,7 @@ The output images after applying these enahnecmenet operations consecutively are
 <img src="figures/projected_high_resolution_2D_image_histeq_imsharpen.png" width="800">
 
 
-# 3. Text Detection from the Constructed High-Resolution 2D Image
+# 4. Text Detection from the Constructed High-Resolution 2D Image
 
 The printed text on the constructed and enhanced 2D reolution image can now be detected using OCR algorithms. The figures below illustrated another reconstructed and enhanced 2D high resolution image and the OCR text detection results extracted from this image, respectively.
 
@@ -59,7 +59,7 @@ The printed text on the constructed and enhanced 2D reolution image can now be d
 
 Using the MATLAB OCT built-in functionality, we are able to extract reasonable accurate text detection results from the high-resolution image.
 
-# 4. Conclusion
+# 5. Conclusion
 
 In this mini-project, we demontrated a simple yet practical proof of concept of constructing high reolution 2D images from 3D point cloud and using the constracted high resolution image for computer vision applications, such text detection using OCR. In some depth-based applications, this may reduce or eliminates the need for additional vision imaging systems since we may be able to extract additional information from the high resolution 2D images reconstructed from the acquired 3D point cloud.  
 
