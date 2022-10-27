@@ -72,10 +72,10 @@ Exploring more advanced super-resolution techniques to construct higher quality 
 
 ## 7. References
 
-1. FME Community. Tutorial: Getting Started with Point Clouds. Retrieved from: https://community.safe.com/s/article/point-cloud-tutorial (October 11, 2022).
-2. Universitat Wurzburg. Large-Scale 3D Point Cloud Processing Tutorial 2013 Retrieved from: http://kos.informatik.uni-osnabrueck.de/icar2013/ (October 11, 2022).
-3. Miguel Molaro. Awesome Point-cloud Processing. Retrieved from: https://github.com/mmolero/awesome-point-cloud-processing (October 11, 2022).
-4. Geospatial Awareness Hub. Essentials of LiDAR Point Cloud Processing Using Python. Retrieved from: https://geospatialawarenesshub.com/blog/essentials-of-lidar-point-cloud-processing-using-python/ (October 11, 2022).
-5. Earth Lab. Lesson 2. Get to know Lidar (Light Detection and Ranging) Point Cloud Data - Active Remote Sensing. Retrieved from: https://www.earthdatascience.org/courses/use-data-open-source-python/data-stories/what-is-lidar-data/explore-lidar-point-clouds-plasio/ (October 11, 2022).
-6. Sofia Kelly. How to Automate LiDAR point Cloud Processing with Python. Retrieved from: https://morioh.com/p/d8ca5ecd9166 (October 11, 2022).
-7. GitHub. Lidar- Point-cloud. Retrieved from: https://github.com/topics/lidar-point-cloud (October 11, 2022).
+1. FME Community. Tutorial: Getting Started with Point Clouds. Retrieved from: https://community.safe.com/s/article/point-cloud-tutorial.
+2. Universitat Wurzburg. Large-Scale 3D Point Cloud Processing Tutorial 2013 Retrieved from: http://kos.informatik.uni-osnabrueck.de/icar2013/.
+3. Miguel Molaro. Awesome Point-cloud Processing. Retrieved from: https://github.com/mmolero/awesome-point-cloud-processing.
+4. Geospatial Awareness Hub. Essentials of LiDAR Point Cloud Processing Using Python. Retrieved from: https://geospatialawarenesshub.com/blog/essentials-of-lidar-point-cloud-processing-using-python/.
+5. Earth Lab. Lesson 2. Get to know Lidar (Light Detection and Ranging) Point Cloud Data - Active Remote Sensing. Retrieved from: https://www.earthdatascience.org/courses/use-data-open-source-python/data-stories/what-is-lidar-data/explore-lidar-point-clouds-plasio/.
+6. Sofia Kelly. How to Automate LiDAR point Cloud Processing with Python. Retrieved from: https://morioh.com/p/d8ca5ecd9166.
+7. GitHub. Lidar- Point-cloud. Retrieved from: https://github.com/topics/lidar-point-cloud.
