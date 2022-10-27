@@ -1,6 +1,6 @@
 # 3D-Point Cloud Processing & Applications in Matlab
 
-<img src="figures/Original-3D-model-a-scale-model-of-a-tire.webp" width="500">
+<img src="figures/Original-3D-model-a-scale-model-of-a-tire.webp" width="1000">
 
 ## 1. Objective
 
@@ -16,7 +16,7 @@ In this project, we shall demonstrate how to construct high-resolution 2D images
 
 The input point cloud data representatiuon of part of a tire is illustrated in the next figure
 
-<img src="figures/input_3D_point_cloud_tire.jpg" width="800">
+<img src="figures/input_3D_point_cloud_tire.jpg" width="1000">
 
 ## 3. Approach
 
@@ -30,13 +30,13 @@ As demonstrated in the submitted code, we implemented the following 3-step proce
 
 We make use of MATLAB 3D surface interpolation and fitting to constrctt high-resolution surface from the reklatively sparse 3D point cloud, as illustrated in the next figure.
 
-<img src="figures/surface_3D_reconstruction_using_surf_grayscale.jpg" width="800">
+<img src="figures/surface_3D_reconstruction_using_surf_grayscale.jpg" width="1000">
 
 ### 3.2 Projecting the 3D High Resolution Surface to a High Resolution 2D Image
 
 We then project the constructed high-resolution 3D surface 3D down to 2D high resolution from a top-down perspective, as illustrated in the next figure.
 
-<img src="figures/projected_high_resolution_2D_image.png" width="800">
+<img src="figures/projected_high_resolution_2D_image.png" width="1000">
 
 ### 3.3 Enhancing the Quality of the Constructed High Resolution 2D Image
 
@@ -47,15 +47,15 @@ In order to enhance the quality of the constrcucted high resolutuion 2D image, w
 
 The output images after applying these enahnecmenet operations consecutively are illutrated next.
 
-<img src="figures/projected_high_resolution_2D_image_histeq.png" width="800">
-<img src="figures/projected_high_resolution_2D_image_histeq_imsharpen.png" width="800">
+<img src="figures/projected_high_resolution_2D_image_histeq.png" width="1000">
+<img src="figures/projected_high_resolution_2D_image_histeq_imsharpen.png" width="1000">
 
 ## 4. Text Detection from the Constructed High-Resolution 2D Image
 
 The printed text on the constructed and enhanced 2D reolution image can now be detected using OCR algorithms. The figures below illustrated another reconstructed and enhanced 2D high resolution image and the OCR text detection results extracted from this image, respectively.
 
-<img src="figures/new_enhanced_projected_high_resolution_2D_image.jpeg" width="800">
-<img src="figures/new_enhanced_projected_high_resolution_2D_image_OCR_output.jpeg" width="800">
+<img src="figures/new_enhanced_projected_high_resolution_2D_image.jpeg" width="1000">
+<img src="figures/new_enhanced_projected_high_resolution_2D_image_OCR_output.jpeg" width="1000">
 
 Using the MATLAB OCT built-in functionality, we are able to extract reasonable accurate text detection results from the high-resolution image.
 
